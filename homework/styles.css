@@ -1,0 +1,27 @@
+body {
+	background-color: #777799;
+}
+div {
+	text-align: center;
+	color: #7A0000;
+}
+ul {
+	color: #00248F;
+}
+h1 {
+	text-align: center;
+}
+img.tmooselogo {
+	height: 185px;
+	width: 310px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+img.mkimslogo {
+	height: 100px;
+	width: 400px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
